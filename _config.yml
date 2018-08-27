@@ -1,6 +1,7 @@
 # Site settings
 title: MY Blog
 SEOTitle: MY Blog
+header-img: img/WLOP wallpaper.jpg 
 email: qiubaiying@gmail.com
 description: "hello world."
 url: "http://qiubaiying.github.io"          # your host, for absolute URL
