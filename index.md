@@ -2,20 +2,6 @@
 
 ### Markdown
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Codex` text
-
-[Link](url) and ![Image](src)
-```
+# 你好 世界
+## 欢迎来到我的博客
+### 与我交流你的想法
